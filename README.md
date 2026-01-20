@@ -1,1 +1,4 @@
-# demo3-AustinMoar
+.DS_Store
+*.log
+node_modules/
+.vscode/
